@@ -398,6 +398,17 @@ a i {
     color: #d9534f;
 }
 
+.btn-default {
+    color: #ffffff;
+    background-color: #770000;
+    border-color: #770000;
+}
+
+a {
+    color: #770000;
+    text-decoration: none;
+}
+
 .btn-default.btn-outline:hover,
 .btn-primary.btn-outline:hover,
 .btn-success.btn-outline:hover,
